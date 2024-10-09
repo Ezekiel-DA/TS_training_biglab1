@@ -1,0 +1,18 @@
+{
+  "name": "big_lab1_nlv",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Typescript Training Big Lab 1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NLV",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.2"
+  }
+}
